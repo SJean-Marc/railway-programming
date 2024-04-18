@@ -19,3 +19,7 @@ a
 +src/main/java/fr/railway/shared/Reason.java,3\7\371e8343cb106ec7853256aa95e6977b24a0c739
 i
 9src/main/java/fr/railway/shared/ExpectedFailedReason.java,8\1\81dcb76398643b6d936043c1c56f2130e4274ed3
+\
+,src/main/java/fr/railway/classic/Result.java,d\4\d4ac651a1548dbd8756893c5ba3de033f21697d7
+`
+0src/test/java/fr/railway/classic/ResultTest.java,c\e\cef4a94eb008145808e0bd434be0d0a9ea4ab40c

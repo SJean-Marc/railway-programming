@@ -25,3 +25,7 @@ i
 0src/test/java/fr/railway/classic/ResultTest.java,c\e\cef4a94eb008145808e0bd434be0d0a9ea4ab40c
 7
 .README,9\9\990485ec39368390279455b8eedebc78af634dea
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+;
+sources.txt,7\e\7e0f6c90fa7efbc300aa16ec76bc0286fe044efa

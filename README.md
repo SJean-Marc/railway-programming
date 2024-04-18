@@ -2,10 +2,15 @@
 An implementation of the Railway Oriented Programming pattern in Java
 
 classic : using only the Result class
+
 shared : more complex implementation with the use of ErrorFormat sharded among all failed
+
+# Source
+Added to sources file
 
 # Example
 classic :
+
        Stream.<Result<String, String>>of(
                 Result.success("valid_email@email.fr"),
                 Result.success("invalid_email"))
@@ -18,6 +23,7 @@ classic :
             .toList();
 
 shared :
+
         Stream.of(
                 Result.success("valid_email@email.fr"),
                 Result.success("invalid_email"))

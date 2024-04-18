@@ -1,0 +1,4 @@
+https://github.com/StefanMacke/ao-railway/tree/master
+https://github.com/mrkloan/result-type/tree/master/src
+https://writeoncereadmany.github.io/2018/02/c-railway-oriented-programming
+https://github.com/unruly/control/blob/master/src/main/java/co/unruly/control/result/Result.java

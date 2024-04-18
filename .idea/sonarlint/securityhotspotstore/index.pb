@@ -23,3 +23,5 @@ i
 ,src/main/java/fr/railway/classic/Result.java,d\4\d4ac651a1548dbd8756893c5ba3de033f21697d7
 `
 0src/test/java/fr/railway/classic/ResultTest.java,c\e\cef4a94eb008145808e0bd434be0d0a9ea4ab40c
+7
+.README,9\9\990485ec39368390279455b8eedebc78af634dea
